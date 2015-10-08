@@ -1,4 +1,9 @@
 
+# Goals for the lab
+
+- [ ] Login to subliminal, set up COMPBIO area.
+- [ ] Use R from the command line, Rstudio.
+- [ ] Start working through DMB handout.
 
 # Set up subliminal
 
@@ -48,4 +53,6 @@ Control-D to exit.
 # Start the Dynamic Models in Biology
 
 Go through as far as you can, and at least until the end of section 10.
+
+
 
