@@ -8,7 +8,7 @@
 # Set up subliminal
 
 ```sh
-ssh -Y subliminal.maths.cam.ac.uk
+ssh -Y sje30@subliminal.maths.cam.ac.uk # change to your CRSID
 ```
 
 (-Y means that you need
