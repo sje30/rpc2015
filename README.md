@@ -11,8 +11,11 @@ github account, but that's probably a good idea anyway.)
 
 # Materials
 
-##  Lab 1
+##  R Lab 1 2015-10-08 13:00-14:00
 
 [Lab 1](lab1.md) will focus on getting started with the local system
 
+## Unix lab  2015-10-08 14:00-16:00
+
+[Unix lab](unixlab.md) is for newcomers to Unix.
 
