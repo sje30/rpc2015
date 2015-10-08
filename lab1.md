@@ -13,7 +13,7 @@
 ssh -Y sje30@subliminal.maths.cam.ac.uk # change to your CRSID
 ```
 
-(-Y means that you need
+(-Y means that you can run X11, i.e. graphical windows, over the connection.)
 
 **One time only** you will need to run the following program to configure
 your logins:
