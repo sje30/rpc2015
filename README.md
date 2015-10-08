@@ -13,6 +13,6 @@ github account, but that's probably a good idea anyway.)
 
 ##  Lab 1
 
-Lab 1 will focus on getting started with the local system
+[Lab 1](lab1.md) will focus on getting started with the local system
 
 
