@@ -4,7 +4,9 @@
 - [ ] Login to subliminal, set up COMPBIO area.
 - [ ] Use R from the command line, Rstudio.
 - [ ] Start working through DMB handout.
-- [ ] Edit your profile on moodle (bonus).
+- [ ] Edit your profile on [moodle](http://vle.cam.ac.uk) (bonus).
+
+
 # Set up subliminal
 
 ```sh
