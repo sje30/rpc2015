@@ -1,10 +1,13 @@
-# Material for RPC 2015
+# Material for RPC (R Programming Course) 2015
 
 I will use this repo to share extra material re: the course.
 
 File an issue if you face any problems!  (You will need to get a
 github account, but that's probably a good idea anyway.)
 
+# Lecture notes
+
+[4up slides](http://damtp.cam.ac.uk/user/sje30/teaching/r/2015/spr-4up.pdf)
 
 # Schedule
 
