@@ -5,7 +5,7 @@
 I will go through the following [lecture slides](latex101-4up.pdf).
 
 
-## Lab 2014-10-15 14:00-15:00 CATAM lab
+## Lab 2015-10-15 14:00-15:00 CATAM lab
 
 After the lecture, there will be a lab.  There are 30 seats, of which
 20 are prioritised for the MPhil Comp Biology students.  The remaining
