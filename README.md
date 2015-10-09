@@ -23,9 +23,6 @@ github account, but that's probably a good idea anyway.)
 [Unix lab](unixlab.md) is for newcomers to Unix.
 
 
-## LaTeX lab 2015-10-17 14:00-15:00
+## LaTeX lecture and lab 2015-10-15 13:00-15:00
 
-We will work through latex material for a simple report.
-
-TODO: copy handouts.
-
+[LaTeX notes](latex.md)
