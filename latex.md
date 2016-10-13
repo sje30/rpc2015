@@ -1,5 +1,12 @@
 # LaTeX lecture and lab.
 
+## 2016 lecture 2016-11-10 1-2pm MR3
+
+Please note this repository is for 2015.  Slides for 2016 are at:
+http://sje30.github.io/post/latex2016/
+
+
+
 ## Lecture 2015-10-15 13:00-14:00 MR2
 
 I will go through the following [lecture slides](latex101-4up.pdf).
