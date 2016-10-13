@@ -3,7 +3,7 @@
 ## 2016 lecture 2016-11-10 1-2pm MR3
 
 Please note this repository is for 2015.  Slides for 2016 are at:
-http://sje30.github.io/post/latex2016/
+https://github.com/sje30/latex101/blob/master/latex101.pdf
 
 
 
