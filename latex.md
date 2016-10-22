@@ -3,7 +3,9 @@
 ## 2016 lecture 2016-11-10 1-2pm MR3
 
 Please note this repository is for 2015.  Slides for 2016 are at:
-https://github.com/sje30/latex101/blob/master/latex101.pdf
+https://github.com/sje30/latex101/blob/master/latex101.pdf  (there
+will just be a lecture, no lab afterwards.)
+
 
 
 
